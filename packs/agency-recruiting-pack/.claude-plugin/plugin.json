@@ -1,0 +1,13 @@
+{
+  "name": "agency-recruiting-pack",
+  "version": "1.0.0",
+  "description": "6 free Claude skills for staffing agency recruiters: job order intake, Boolean and X-ray sourcing, candidate outreach, submittals, client BD outreach and job description cleanup.",
+  "author": {
+    "name": "Work Insiders",
+    "url": "https://workinsiders.com/skills/agency-recruiting-pack/"
+  },
+  "homepage": "https://workinsiders.com/skills/agency-recruiting-pack/",
+  "repository": "https://github.com/workinsiders/claude-skills",
+  "license": "MIT",
+  "keywords": ["recruiting", "staffing", "agency", "sourcing", "boolean", "submittal"]
+}

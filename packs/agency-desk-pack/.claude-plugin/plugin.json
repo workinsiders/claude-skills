@@ -1,0 +1,13 @@
+{
+  "name": "agency-desk-pack",
+  "version": "1.0.0",
+  "description": "7 free Claude skills for agency recruiters: market maps, role calibration, candidate replies, screening calls, counter-offer risk, offer pre-close and lost search post-mortems.",
+  "author": {
+    "name": "Work Insiders",
+    "url": "https://workinsiders.com/skills/agency-desk-pack/"
+  },
+  "homepage": "https://workinsiders.com/skills/agency-desk-pack/",
+  "repository": "https://github.com/workinsiders/claude-skills",
+  "license": "MIT",
+  "keywords": ["recruiting", "staffing", "agency", "screening", "counter-offer", "calibration"]
+}

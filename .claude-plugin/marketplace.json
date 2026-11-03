@@ -1,0 +1,25 @@
+{
+  "name": "workinsiders-skills",
+  "description": "Free Claude skills for recruiters and staffing agencies from Work Insiders (workinsiders.com/skills/).",
+  "owner": {
+    "name": "Work Insiders",
+    "url": "https://workinsiders.com/skills/"
+  },
+  "plugins": [
+    {
+      "name": "agency-recruiting-pack",
+      "source": "./packs/agency-recruiting-pack",
+      "description": "6 skills for the daily agency desk: job order intake, Boolean sourcing, candidate outreach, submittals, BD emails and job posts."
+    },
+    {
+      "name": "agency-desk-pack",
+      "source": "./packs/agency-desk-pack",
+      "description": "7 skills for the moments that make or lose a fee: market maps, calibration, replies, screens, counter-offers, offer pre-close and post-mortems."
+    },
+    {
+      "name": "in-house-recruiting-pack",
+      "source": "./packs/in-house-recruiting-pack",
+      "description": "12 skills for in-house TA teams, from the hiring scorecard to the signed offer, plus an AI hiring policy. No skill screens, ranks or scores a candidate."
+    }
+  ]
+}

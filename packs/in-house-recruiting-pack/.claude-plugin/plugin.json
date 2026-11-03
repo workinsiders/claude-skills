@@ -1,0 +1,13 @@
+{
+  "name": "in-house-recruiting-pack",
+  "version": "1.0.0",
+  "description": "12 free Claude skills for in-house recruiting teams: hiring scorecard, pay range, process plan, candidate updates, structured interviews, evidence forms, debrief, references, rejections, offer acceptance and an AI hiring policy.",
+  "author": {
+    "name": "Work Insiders",
+    "url": "https://workinsiders.com/skills/in-house-recruiting-pack/"
+  },
+  "homepage": "https://workinsiders.com/skills/in-house-recruiting-pack/",
+  "repository": "https://github.com/workinsiders/claude-skills",
+  "license": "MIT",
+  "keywords": ["recruiting", "talent acquisition", "interviewing", "scorecard", "hiring", "ai policy"]
+}
