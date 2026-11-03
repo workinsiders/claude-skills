@@ -1,6 +1,6 @@
 # Claude skills for recruiters
 
-Free, MIT-licensed Claude skills for staffing agencies and in-house recruiting teams, from [Work Insiders](https://workinsiders.com/skills/). 38 SKILL.md files in four packs. They also work in ChatGPT, Gemini and Grok.
+Free, MIT-licensed Claude skills for staffing agencies and in-house recruiting teams, from [Work Insiders](https://workinsiders.com/skills/). 50 SKILL.md files in five packs. They also work in ChatGPT, Gemini and Grok.
 
 | Pack | For | Skills | Page |
 |---|---|---|---|
@@ -8,6 +8,7 @@ Free, MIT-licensed Claude skills for staffing agencies and in-house recruiting t
 | [Agency Desk Pack](packs/agency-desk-pack) | Staffing agencies | 7: market maps, calibration, candidate replies, screening calls, counter-offers, offer pre-close, post-mortems | [workinsiders.com/skills/agency-desk-pack/](https://workinsiders.com/skills/agency-desk-pack/) |
 | [In-House Recruiting Pack](packs/in-house-recruiting-pack) | Corporate and startup TA teams | 12: scorecard to signed offer, plus an AI hiring policy | [workinsiders.com/skills/in-house-recruiting-pack/](https://workinsiders.com/skills/in-house-recruiting-pack/) |
 | [Recruiter Outreach Pack](packs/recruiter-outreach-pack) | Staffing agencies | 13: one outreach run for BD or candidates, from target profile to review | [workinsiders.com/skills/recruiter-outreach-pack/](https://workinsiders.com/skills/recruiter-outreach-pack/) |
+| [Agency Growth Pack](packs/agency-growth-pack) | Staffing agencies | 12: win and keep clients, from a 90-day BD plan to fee proposals, exclusive pitches and PSL bids | [workinsiders.com/skills/agency-growth-pack/](https://workinsiders.com/skills/agency-growth-pack/) |
 
 ## The rule every skill follows
 
@@ -21,6 +22,7 @@ The AI drafts. People decide. No skill screens, ranks or scores a candidate, not
 /plugin install agency-desk-pack@workinsiders-skills
 /plugin install in-house-recruiting-pack@workinsiders-skills
 /plugin install recruiter-outreach-pack@workinsiders-skills
+/plugin install agency-growth-pack@workinsiders-skills
 ```
 
 Install only the packs you need.
@@ -33,7 +35,7 @@ Download a pack ZIP from its page on [workinsiders.com/skills/](https://workinsi
 
 Every skill reads one profile file in its `references/` folder:
 
-- Agency packs (Recruiting, Desk, Outreach): [`agency-profile.md`](profiles/agency-profile.md) (fees, markets, proof points, house rules)
+- Agency packs (Recruiting, Desk, Outreach, Growth): [`agency-profile.md`](profiles/agency-profile.md) (fees, markets, proof points, house rules)
 - In-House pack: [`company-profile.md`](profiles/company-profile.md) (stages, pay policy, who decides)
 
 Fill it in once and every output uses your real details. Leave a line blank rather than guess, so the AI never invents fees, pay or proof points.

@@ -25,6 +25,11 @@
       "name": "recruiter-outreach-pack",
       "source": "./packs/recruiter-outreach-pack",
       "description": "13 skills for one outreach run, client BD or candidates: target profile, hiring signals, account list, warm paths, research, reason to write, message check, follow-ups and review."
+    },
+    {
+      "name": "agency-growth-pack",
+      "source": "./packs/agency-growth-pack",
+      "description": "12 skills to win and keep clients: 90-day BD plan, key client plan, past clients, referrals, positioning, case studies, fee proposals, fee objections, exclusive pitches, PSL bids, pipeline and win/loss reviews."
     }
   ]
 }

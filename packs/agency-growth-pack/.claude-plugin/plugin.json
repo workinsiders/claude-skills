@@ -1,0 +1,13 @@
+{
+  "name": "agency-growth-pack",
+  "version": "1.0.0",
+  "description": "12 free Claude skills for staffing agency BD after the first call: 90-day BD plan, key client plan, past client reconnect, referrals, positioning, placement case studies, fee proposals, fee objections, exclusive search pitch, PSL bids, pipeline and win/loss reviews.",
+  "author": {
+    "name": "Work Insiders",
+    "url": "https://workinsiders.com/skills/agency-growth-pack/"
+  },
+  "homepage": "https://workinsiders.com/skills/agency-growth-pack/",
+  "repository": "https://github.com/workinsiders/claude-skills",
+  "license": "MIT",
+  "keywords": ["recruiting", "staffing", "agency", "business development", "fees", "client growth"]
+}
