@@ -45,5 +45,6 @@ Weak spots to fix: [claims with no proof yet]
 ## Rules
 
 - Every claim needs proof from the profile or the recruiter's history; mark the rest `needs proof`.
-- Never disparage competitors, internal TA teams or tools by name.
+- Never disparage competitors, internal TA teams or tools.
 - Plain words. No "best-in-class", "end-to-end", "synergy" or "talent solutions".
+- Never use anything under "Words we never use" in the profile.

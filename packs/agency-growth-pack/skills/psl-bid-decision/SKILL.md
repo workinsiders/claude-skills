@@ -57,3 +57,4 @@ Timeline: [ ]
 - Never claim certifications, insurance, coverage or results the agency does not have.
 - Contract terms, liability and compliance obligations go to the recruiter's adviser.
 - A no-go is a fine answer. Say it plainly when the terms do not work.
+- Rates, fee caps, rebates and volume discounts in the response come only from the recruiter. Never propose a price to win the bid.

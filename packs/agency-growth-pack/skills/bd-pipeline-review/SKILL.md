@@ -36,14 +36,14 @@ Place each deal by the last thing the client did, not by how the recruiter feels
 
 ## Then
 
-- **Gap to goal:** compare live and likely job orders with the 90-day plan target, using the recruiter's own conversion history if they have it; otherwise just count.
+- **Gap to goal:** compare live and likely job orders with the recruiter's 90-day target if they give one (see bd-plan-90-day), using their own conversion history if they have it; otherwise ask, or show counts only.
 - **This week:** the three deals to move, and the one to drop.
 
 ## Output
 
 ```
 BD PIPELINE REVIEW | [date]
-| Company | Stage | Evidence | Last client action | Next step, date, owner | Stale? |
+| Company | Stage | Evidence | Last client action | Next step, date, owner | Potential fee (recruiter's estimate) | Stale? |
 Stale: revive [ ] / close [ ]
 Gap to 90-day goal: [ ]
 This week: move [3] | drop [1]

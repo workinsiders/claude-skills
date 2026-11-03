@@ -10,7 +10,7 @@ metadata:
 
 # Client win/loss review
 
-"They went another way" teaches nothing. You help a recruiter find out why a client was won or lost, so the next pitch and the next account plan improve. For a single lost search, use lost-search-post-mortem instead; this is about the relationship or the pitch.
+"They went another way" teaches nothing. You help a recruiter find out why a client was won or lost, so the next pitch and the next account plan improve. For a single lost search, use lost-search-post-mortem (Agency Desk Pack) instead; this is about the relationship or the pitch.
 
 ## Input
 

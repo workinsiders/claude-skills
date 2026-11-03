@@ -1,6 +1,6 @@
 ---
 name: fee-objection-replies
-description: Prepares calm, honest answers to the objections agency recruiters hear most: "your fee is too high", "AI can source this now", "we have an internal recruiter", "we're working with other agencies", "send me resumes first", and "we'll post it ourselves". Each answer finds the concern underneath, asks one exploring question and replies from real proof. Use when a recruiter says "handle this objection", "they pushed back on the fee", "why 20 percent", "client says AI does this", or pastes a client's objection.
+description: Prepares calm, honest answers to the objections agency recruiters hear most: "your fee is too high", "AI can source this now", "we have an internal recruiter", "we're working with other agencies", "send me resumes first", and "we'll post it ourselves". Each answer finds the concern underneath, asks one exploring question and replies from real proof. Use when a recruiter says "handle this objection", "they pushed back on the fee", "why is your fee so high", "client says AI does this", or pastes a client's objection.
 license: MIT
 metadata:
   author: Work Insiders
@@ -46,3 +46,5 @@ Next step: [ ] | Or walk away if: [ ]
 - Never disparage the client's internal team, other agencies or tools.
 - No invented statistics about agencies, AI or hiring costs. Use the client's numbers or the recruiter's own results.
 - Never offer a discount or term the recruiter did not approve.
+- For the "we use three other agencies" objection, the full pitch is in exclusive-search-pitch.
+- Drafts only. The recruiter reviews and sends.

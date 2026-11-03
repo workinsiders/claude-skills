@@ -34,7 +34,7 @@ Ask for whatever the recruiter can give; mark the rest `unknown`:
 ## The weekly BD hour
 
 ```
-1. Replies and follow-ups owed (10 min) -> follow-up-tracker
+1. Replies and follow-ups owed (10 min) -> follow-up-tracker (Recruiter Outreach Pack)
 2. Existing clients: who has a new need? (15 min) -> key-client-plan
 3. Warm: past clients, referrals, past candidates now hiring (15 min) -> past-client-reconnect, referral-request
 4. One new account on a real signal (15 min) -> Recruiter Outreach Pack

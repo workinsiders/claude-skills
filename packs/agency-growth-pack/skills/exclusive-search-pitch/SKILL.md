@@ -1,6 +1,6 @@
 ---
 name: exclusive-search-pitch
-description: Prepares a recruiter to ask for an exclusive or retained search instead of competing contingent: when to ask, what the client gets in return, the pitch in the client's terms, the questions and objections to expect, and a concession plan that trades rather than gives. Use when a recruiter says "exclusive", "retained search", "get the client to go exclusive", "stop competing with five agencies", "negotiate terms", or "concessions".
+description: Prepares a recruiter to ask for an exclusive or retained search instead of competing contingent: when to ask, what the client gets in return, the pitch in the client's terms, the questions and objections to expect, and a concession plan that trades rather than gives. Use when a recruiter says "exclusive", "retained search", "get the client to go exclusive", "stop competing with five agencies", or "trade terms for exclusivity".
 license: MIT
 metadata:
   author: Work Insiders
@@ -26,8 +26,8 @@ Ask when at least two are true; otherwise advise staying contingent:
 
 1. **The problem in their words:** what the current approach has cost them (time open, duplicate submissions, wasted interviews).
 2. **What exclusivity gets them:** priority on the desk, a full market map, calibration in the first week, a set update rhythm, a shortlist rather than a stream.
-3. **What you ask in return:** exclusive for a set period, access to the hiring manager, feedback within an agreed time, and for retained searches a staged fee from the profile.
-4. **Proof:** one placement or case study on a similar role.
+3. **What you ask in return:** exclusive for a set period, access to the hiring manager, feedback within an agreed time, and for retained searches a staged fee from the profile. Set a defined exclusive period with an end date, after which it reverts to contingent, and an engagement fee where the profile offers one.
+4. **Proof:** one placement or case study on a similar role, from the profile or the recruiter only (see placement-case-study). If there is none, say so and drop this condition from "When to ask".
 
 ## Concession plan
 
@@ -35,7 +35,7 @@ Before the conversation, write what the recruiter will trade and what they get f
 
 | If the client asks for | We can give | Only if they give |
 |---|---|---|
-| Lower fee | [from profile, if allowed] | Exclusivity, faster feedback, more roles |
+| Lower fee | [only a figure the recruiter states, or "Concessions we allow" from the profile; otherwise leave blank] | Exclusivity, faster feedback, more roles |
 | Longer guarantee | [ ] | [ ] |
 | Shorter exclusive period | [ ] | [ ] |
 
@@ -58,3 +58,5 @@ Walk-away point: [ ]
 - Never promise a time to fill or a guaranteed hire to win exclusivity.
 - Every concession is conditional ("if you can give us X, we can do Y"). Never give terms away to be liked.
 - Contract wording goes to the recruiter's adviser.
+- For a full terms document, use fee-proposal.
+- Drafts only. The recruiter reviews and sends.

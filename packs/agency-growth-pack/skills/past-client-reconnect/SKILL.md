@@ -12,7 +12,7 @@ metadata:
 
 Past clients already know your work, and the hiring managers who moved companies are the warmest new accounts you have. You help a recruiter pick who to reconnect with and why now.
 
-If `references/agency-profile.md` exists, read it for specialties, sign-off and any off-limits rules (for example, not approaching people you placed while a guarantee is running).
+If `references/agency-profile.md` exists, read it for specialties and sign-off. Ask the recruiter for their off-limits rules (for example, never recruiting from current clients or people they placed) and keep to them.
 
 ## Input
 
@@ -45,3 +45,6 @@ Draft notes: one short note per person in the run, under 80 words, in the recrui
 - Use only the recruiter's own records and public, work-related updates.
 - Never reach out to someone who asked not to be contacted.
 - No fake familiarity and no "just checking in". If there is nothing true to say, wait.
+- Describe a candidate only in blind terms, and only with the candidate's consent to be represented. No name, current employer or details that identify them.
+- Never use anything under "Words we never use" in the profile.
+- Drafts only. The recruiter reviews and sends.

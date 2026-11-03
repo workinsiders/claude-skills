@@ -27,7 +27,7 @@ If the recruiter has only a rough memory, ask these one at a time and record the
 ## Mode 2: write the one-pager
 
 ```
-[Title that names the change: "A controls engineer in 19 days after a 4-month internal search"]
+[Title that names the change, using only the real numbers gathered above. Example format only: "A [role] in [n] days after a [n]-month internal search"]
 The client: [industry, size, location; name only if permitted]
 The challenge: [2 to 3 sentences]
 What we did: [3 bullets]
@@ -44,3 +44,5 @@ Under 250 words. Also give a two-sentence version for emails and proposals.
 - Never name the client, the candidate or quote anyone without permission the recruiter confirms. Default to anonymous.
 - Never include candidate personal details, pay specifics that identify someone, or anything from the client that was shared in confidence.
 - Do not round numbers up or claim credit for things the client did.
+- If the client is named, keep the role general enough that the hire cannot be identified, unless the candidate agreed.
+- Never use anything under "Words we never use" in the profile.

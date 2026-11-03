@@ -12,13 +12,13 @@ metadata:
 
 Most recruiters never ask for referrals, and the ones who ask say "know anyone hiring?", which nobody can answer. You help a recruiter ask for one specific introduction at the right moment.
 
-If `references/agency-profile.md` exists, read it for specialties, markets and sign-off. Check whether the agency pays referral fees; if so, flag that local rules and the referrer's employer policy may apply and leave the details to the recruiter.
+If `references/agency-profile.md` exists, read it for specialties, markets and sign-off. Ask the recruiter whether the agency pays referral fees; if so, flag that local rules and the referrer's employer policy may apply and leave the details to the recruiter.
 
 ## Mode 1: one referral ask
 
 Input: who the recruiter wants to ask (a happy client, a placed candidate who is now settled, a peer) and what has just happened.
 
-1. **Timing.** Best moments: a placement passes its first 90 days, a client says thank you, a candidate gets promoted. Avoid asking during a live search with problems.
+1. **Timing.** Best moments: a placement passes the guarantee period in the profile (or 90 days if none is set), a client says thank you, a candidate gets promoted. Avoid asking during a live search with problems.
 2. **The specific ask.** Name the kind of person ("the plant manager at your sister site in Dalton") or the situation ("anyone you know building an automation team this year"), not "anyone hiring".
 3. **Forwardable blurb.** Three sentences they can paste: who the recruiter is, what they fill, one proof point from the agency profile.
 4. **An easy no.** "If nobody comes to mind, no problem at all."
@@ -44,6 +44,8 @@ REFERRAL PARTNERS (mode 2):
 
 ## Rules
 
-- Never pressure, and never ask a placed candidate to refer colleagues at the client they were placed with if the client terms forbid it.
+- Never pressure anyone. Never ask a placed candidate or any client employee to refer colleagues at their own employer as candidates. Ask placed candidates only for hiring-side introductions at other companies.
 - Proof points only from the agency profile.
 - Referral fees and payment terms: flag for the recruiter's adviser, do not set them.
+- Never use anything under "Words we never use" in the profile.
+- Drafts only. The recruiter reviews and sends.
