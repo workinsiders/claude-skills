@@ -1,0 +1,13 @@
+{
+  "name": "recruiter-outreach-pack",
+  "version": "1.0.0",
+  "description": "13 free Claude skills for recruiter outreach, for client BD or candidates: target profile, hiring signals, account list, warm paths, company research, contact finding, reason to write, voice guide, message check, weekly run, follow-ups, first call prep and review.",
+  "author": {
+    "name": "Work Insiders",
+    "url": "https://workinsiders.com/skills/recruiter-outreach-pack/"
+  },
+  "homepage": "https://workinsiders.com/skills/recruiter-outreach-pack/",
+  "repository": "https://github.com/workinsiders/claude-skills",
+  "license": "MIT",
+  "keywords": ["recruiting", "staffing", "business development", "outreach", "prospecting", "sourcing"]
+}

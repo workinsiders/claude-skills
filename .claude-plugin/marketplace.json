@@ -20,6 +20,11 @@
       "name": "in-house-recruiting-pack",
       "source": "./packs/in-house-recruiting-pack",
       "description": "12 skills for in-house TA teams, from the hiring scorecard to the signed offer, plus an AI hiring policy. No skill screens, ranks or scores a candidate."
+    },
+    {
+      "name": "recruiter-outreach-pack",
+      "source": "./packs/recruiter-outreach-pack",
+      "description": "13 skills for one outreach run, client BD or candidates: target profile, hiring signals, account list, warm paths, research, reason to write, message check, follow-ups and review."
     }
   ]
 }
