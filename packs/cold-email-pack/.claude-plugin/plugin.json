@@ -1,0 +1,21 @@
+{
+  "name": "cold-email-pack",
+  "version": "1.0.0",
+  "description": "17 free Claude skills for recruitment agency cold email: start-here wizard, ICP, offers, sending setup, deliverability, list building and verification, BD and MPC sequences, spintax, candidate campaigns, compliance, launch checklist, replies, testing and results.",
+  "author": {
+    "name": "Work Insiders",
+    "url": "https://workinsiders.com/skills/cold-email-pack/"
+  },
+  "homepage": "https://workinsiders.com/skills/cold-email-pack/",
+  "repository": "https://github.com/workinsiders/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "recruiting",
+    "staffing",
+    "agency",
+    "cold email",
+    "business development",
+    "deliverability",
+    "instantly"
+  ]
+}

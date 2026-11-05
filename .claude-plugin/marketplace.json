@@ -30,6 +30,11 @@
       "name": "agency-growth-pack",
       "source": "./packs/agency-growth-pack",
       "description": "12 skills to win and keep clients: 90-day BD plan, key client plan, past clients, referrals, positioning, case studies, fee proposals, fee objections, exclusive pitches, PSL bids, pipeline and win/loss reviews."
+    },
+    {
+      "name": "cold-email-pack",
+      "source": "./packs/cold-email-pack",
+      "description": "17 skills for recruitment agency cold email: who to email, an offer worth answering, safe domains and warmup, verified lists, BD and MPC sequences, candidate campaigns, compliance, launch gates, replies and results."
     }
   ]
 }

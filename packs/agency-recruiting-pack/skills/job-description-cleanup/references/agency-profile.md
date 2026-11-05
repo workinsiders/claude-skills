@@ -35,5 +35,14 @@ Fill this in once. Every skill in the pack reads it, so every output comes out i
 - Job post apply instructions:
 - EEO statement:
 
+## Cold email
+- Sequencer we use (e.g. Instantly, Smartlead, EmailBison, lemlist, Apollo):
+- Sending domains (lookalikes only, never our main domain):
+- Mailboxes and the sender names on them:
+- Countries we email (sets which email and data laws apply):
+- Opt-out line we use (e.g. "Reply 'no' and I won't email again."):
+- Booking link (sent only after someone replies yes):
+- Where our current clients, opt outs and do-not-contact list are kept:
+
 ## Words we never use
 -
